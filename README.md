@@ -1,7 +1,3 @@
-**Filename: `readme.txt`**
-
----
-
 ### Personal Note from Me
 
 Hello and welcome to my project! I created this tool to contribute to the cybersecurity community and help others enhance their network security. My goal is to provide a useful and accessible resource to anyone who shares my commitment to safeguarding digital environments.
